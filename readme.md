@@ -2,4 +2,4 @@
 
 ## Gérard Berry | Algorithmes & programmation
 
-Projet créé par **ldx** dans le cadre 
+Projet créé par **ldx** dans le cadre d'un projet de NSI

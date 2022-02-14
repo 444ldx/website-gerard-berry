@@ -4,3 +4,5 @@
 
 Créer un site web statique en HTML et CSS sur une personnalité imposé ayant travaillé sur des avancés majeurs dans l'informatique.
 Vous devrez coder le plus proprement possible en respectant les normes W3C.
+
+**Note obtenue : 10/10**

@@ -1,5 +1,6 @@
-# Mini projet - HTML et CSS
+# Mini Projet de Première NSI
 
-## Gérard Berry | Algorithmes & programmation
+## Création d'un site web en HTML et CSS
 
-Projet créé par **ldx** dans le cadre d'un projet de NSI
+Créer un site web statique en HTML et CSS sur une personnalité imposé ayant travaillé sur des avancés majeurs dans l'informatique.
+Vous devrez coder le plus proprement possible en respectant les normes W3C.
